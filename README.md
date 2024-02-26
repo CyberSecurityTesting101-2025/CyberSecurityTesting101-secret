@@ -1,5 +1,8 @@
 # Introduction to Cyber Security Testing IC00AI82
 
+> [!Important]
+> This is not the correct instructions repository. Just a demo for leaking some secrets!
+
 Exercises for the course **[Introduction to Cyber Security Testing IC00AI82](https://opas.peppi.oulu.fi/en/course/IC00AI82/32356)**. 
 
 Upon completing the course, the student:
